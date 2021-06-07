@@ -1,0 +1,104 @@
+Nombre|Etiqueta|Tipo|Columnas|Medida|Alineación|Valores
+pano|Año de la encuesta|Text|8|Nominal|Left|
+pmes|Mes de la encuesta|Text|8|Nominal|Left|6.01347001700452E-154=Octubre/6.01347001700486E-154=Enero/6.01347001700486E-154=Noviembre/6.01347001700519E-154=Febrero/6.0134700170052E-154=Diciembre/6.01347001700553E-154=Marzo/6.01347001700587E-154=Abril/6.01347001700621E-154=Mayo/6.01347001700655E-154=Junio/6.01347001700689E-154=Julio/6.01347001700723E-154=Agosto/6.01347001700757E-154=Setiembre
+conglome|Número del conglomerado|Text|8|Nominal|Left|
+submuestra|Nº de Sub Muestra|Text|8|Nominal|Left|
+vivienda|Número de selección de la vivienda|Text|8|Nominal|Left|
+hogar|Hogar|Text|8|Nominal|Left|
+codperso|Código de persona|Text|8|Nominal|Left|
+dominio|Dominio|Numeric|8|Scale|Right|
+estrato|Estrato geográfico|Numeric|8|Scale|Right|
+codpanel|Código de persona panel|Text|8|Nominal|Left|
+p103|Parentesco con el Jefe del Hogar|Numeric|8|Scale|Right|1=Jefe/Jefa/2=Esposa(o)/3=Hijo(a)/4=Yerno/Nuera/5=Padres/Suegros/6=Otros parientes/7=Trabaj. Hogar/8=Pensionista/9=Otros No Parientes
+p104|Miembro del Hogar|Numeric|8|Scale|Right|1=Si/2=No
+p105|Se encuentra ausente del hogar 30 días o mas?|Numeric|8|Scale|Right|1=Si/2=No
+p106|Esta  presente en el hogar 30 días o más ?|Numeric|8|Scale|Right|1=Si/2=No
+p107|Sexo|Numeric|8|Scale|Right|1=Hombre/2=Mujer
+p108|Edad ( en años )|Numeric|8|Scale|Right|
+p109a|Nivel educativo|Numeric|8|Scale|Right|1=Sin Nivel/2=Inicial/3=Primaria Incompleta/4=Primaria Completa/5=Secundaria Incompleta/6=Secundaria Completa/7=Superior No Univ. Incompleta/8=Superior No Univ. Completa/9=Superior Univ. Incompleta/10=Superior Univ. Completa
+p109b|Años de estudios|Numeric|8|Scale|Right|
+p109c|Grado de estudios|Numeric|8|Scale|Right|
+p200n|Código de persona (modulo de empleo)|Numeric|8|Scale|Right|
+p200i|Código de informante (modulo empleo)|Numeric|8|Scale|Right|
+p200a|Periodo inicial de referencia: día|Numeric|8|Scale|Right|
+p200b|Periodo inicial de referencia: mes|Numeric|8|Scale|Right|
+p200bb|Periodo inicial de referencia: año|Numeric|8|Scale|Right|
+p200c|Periodo final de referencia: día|Numeric|8|Scale|Right|
+p200d|Periodo final de referencia: mes|Numeric|8|Scale|Right|
+p200dd|Periodo final de referencia: año|Numeric|8|Scale|Right|
+p200e|Día de nacimiento|Numeric|8|Scale|Right|
+p200f|Mes de nacimiento|Numeric|8|Scale|Right|
+p200g|Año de nacimiento|Numeric|8|Scale|Right|
+p201|La semana pasada del...al ...tuvo Ud algún trabajo?|Numeric|8|Scale|Right|1=Si/2=No
+p202|Tiene algún empleo fijo al que proximamente volverá?|Numeric|8|Scale|Right|1=Si/2=No
+p203|Aunque no trabajó la semana pasada, Tiene algún negocio propio?|Numeric|8|Scale|Right|1=Si/2=No
+p204|Indicador de omision pregunta 204|Numeric|8|Scale|Right|0=Pase
+p2041|Trabajando en algún negocio propio o de un familiar?|Numeric|8|Scale|Right|1=Si/2=No
+p2042|Ofreciendo algún servicio?|Numeric|8|Scale|Right|1=Si/2=No
+p2043|Haciendo algo en casa para vender?|Numeric|8|Scale|Right|1=Si/2=No
+p2044|Vendiendo productos de belleza, ropa, joyas,etc.?|Numeric|8|Scale|Right|1=Si/2=No
+p2045|Haciendo prácticas pagadas en un centro de trabajo?|Numeric|8|Scale|Right|1=Si/2=No
+p2046|Trabajando para un hogar particular?|Numeric|8|Scale|Right|1=Si/2=No
+p2047|Fabricando algún producto?|Numeric|8|Scale|Right|1=Si/2=No
+p2048|Realizando labores en la chacra o cuidado de animales?|Numeric|8|Scale|Right|1=Si/2=No
+p2049|Ayudando a un familiar sin remuneración?|Numeric|8|Scale|Right|1=Si/2=No
+p20410|Otra?|Numeric|8|Scale|Right|1=Si/2=No
+p20411|Realizando alguna labora artesanal?|Numeric|8|Nominal|Right|1=Si/2=No
+p204a|Código de Ocupación|Numeric|8|Scale|Right|
+p205a|Código de Rama|Numeric|8|Scale|Right|
+p206|Ud. se desempeño en su ocupación principal o negocio cómo:|Numeric|8|Scale|Right|1=Empleador o patrono?/2=¿Trabajador Independiente?/3=¿Empleado?/4=¿Obrero?/5=¿Trabajador  Familiar No  Remunerado?/6=¿Trabajador del Hogar?/7=¿Otro?
+P206AA|En su ocupación principal, Ud. trabajo para|Numeric|14|Nominal|Right|1=Fuerzas Armadas, Policía Nacional del Perú (militares)?/2=Administración pública/3=Empresa pública/4=Empresas especiales de servicios (SERVICE)/5=Empresa o patrono privado/6=Otro
+p207a|En su trabajo, negocio o empresa, incluyéndose Ud.laboraron:|Numeric|8|Scale|Right|1=Menos de 100 personas?/2=Mas de 100 personas?
+p207b|Incluyéndose Ud, Nro de personas que laboraron en su centro de trabajo|Numeric|8|Scale|Right|
+p208b1|Désde que día trabaja Ud. en esta ocupación principal?|Numeric|8|Scale|Right|
+p208b2|Désde que mes trabaja Ud. en esta ocupación principal?|Numeric|8|Scale|Right|
+p208b3|Désde que año trabaja Ud. en esta ocupación principal?|Numeric|8|Scale|Right|
+p209a|El día domingo cuántas horas trabajo en todas sus ocupaciones?|Numeric|8|Scale|Right|
+p209b|El día lunes cuántas horas trabajo en todas sus ocupaciones?|Numeric|8|Scale|Right|
+p209c|El día martes cuántas horas trabajo en todas sus ocupaciones?|Numeric|8|Scale|Right|
+p209d|El día miercoles cuántas horas trabajo en todas sus ocupaciones?|Numeric|8|Scale|Right|
+p209e|El día jueves cuántas horas trabajo en todas sus ocupaciones?|Numeric|8|Scale|Right|
+p209f|El día viernes cuántas horas trabajo en todas sus ocupaciones?|Numeric|8|Scale|Right|
+p209g|El día sábado cuántas horas trabajo en todas sus ocupaciones?|Numeric|8|Scale|Right|
+p209t|Total de horas trabajadas|Numeric|8|Scale|Right|
+p209bb|Normalmente trabaja esas horas a la semana?|Numeric|8|Scale|Right|1=Si/2=No
+p209cc|Cuántas horas trabaja a la semana en todas sus ocupaciones?|Numeric|8|Scale|Right|
+p209h|Tuvo la voluntad de trabajar más horas y además estuvo disponible para hacerlo?|Numeric|8|Scale|Right|1=Si/2=No
+p209ee|Estuvo Ud. buscando otro trabajo?|Numeric|8|Scale|Right|1=Si/2=No
+p210|En su ocupacion principal, a Ud. le pagan:|Numeric|8|Scale|Right|0=Practicante/1=Diario?/2=Semanal?/3=Quincenal?/4=Mensual?
+p211a|Cuál fue su ingreso total monetario por trab. dependiente|Numeric|8|Scale|Right|
+p211b|Cuál fue su ingreso total en especies por trab. dependiente|Numeric|8|Scale|Right|
+p212a|Cuál fue su ingreso total monetario por trab. independiente|Numeric|8|Scale|Right|
+p212b|Cuál fue su Ingreso en especies por trab. independiente|Numeric|8|Scale|Right|
+p212c|Cuál fue su ingreso monetario en el mes anterior, act. secundaria|Numeric|8|Scale|Right|
+p212d|Cuál fue su ingreso en especies en el mes anterior, act. secundaria|Numeric|8|Scale|Right|
+p212e|No tiene actividad secundaria?|Numeric|8|Scale|Right|0=Tiene actividad secundaria/1=No tiene actividad secundaria
+p213|Ha hecho algo para conseguir trabajo?|Numeric|8|Scale|Right|1=Si/2=No
+p214|Que estuvo haciendo la semana pasada?|Numeric|8|Scale|Right|1=¿Hizo trámites, buscó local, gestionó préstamos para su nego/2=¿Reparando sus activos (local, maquina, equipo)?/3=¿Esperando el inicio de un trabajo dependiente (Ob,Emp,Th)?/4=¿Estudiando?/5=¿Quehaceres del hogar?/6=¿Vivía de su pensión o jubilacion u otras rentas?/7=¿Enfermo o incapacitado?/8=¿Servicio Militar obligatorio?/9=¿Otro?
+p215|La semana pasada, queria Ud. trabajar?|Numeric|8|Scale|Right|1=Si/2=No
+p216|Hubiera podido trabajar en cualquier momento?|Numeric|8|Scale|Right|1=Si/2=No
+p217|Por qué no buscó trabajo?|Numeric|8|Scale|Right|1=No hay trabajo/2=Se canso de buscar/3=Por su edad/4=Falta de experiencia/5=Sus estudios no le permiten/6=Los quehaceres del hogar no le permiten/7=Razones de Salud/8=Falta de capital/9=Otro/10=Ya encontro trabajo/11=Si busco trabajo
+p218|Qué hizo la semana pasada para conseguir trabajo?|Numeric|8|Scale|Right|1=Empleador / patrono/2=Agencia de empleo/Bolsa  de trabajo/3=Solo amigos, parientes/4=Solo leyo avisos/5=Otro/6=No hizo nada para conseguir trabajo/7=Búsqueda a través de INTERNET
+p219|Cuántas semanas ha estado buscando trabajo,sin interrupciones|Numeric|8|Scale|Right|
+p220|Ha trabajado antes?|Numeric|8|Scale|Right|1=Si/2=No
+p222|El Sistema de Seguros de Salud al cual Ud. esta afiliado es:|Numeric|8|Scale|Right|1=ESSALUD? (antes IPSS)/2=SEGURO PRIVADO DE SALUD?/3=Ambos?/4=OTRO?/5=No esta afiliado
+P223A1|Tiene Ud. Limitaciones de forma permanente, para moverse o caminar, para usar brazos o piernas|Numeric|7|Nominal|Right|
+P223A2|Tiene Ud. Limitaciones de forma permanente, para ver, aun usando anteojos|Numeric|6|Nominal|Right|
+P223A3|Tiene Ud. Limitaciones de forma permanente, para hablar o comunicarse, aun usando el lenguaje de señas u otro|Numeric|6|Nominal|Right|
+P223A4|Tiene Ud. Limitaciones de forma permanente, para oír, aun usando audífonos|Numeric|6|Nominal|Right|
+P223A5|Tiene Ud. Limitaciones de forma permanente, para entender o aprender (concentrarse y recordar)|Numeric|5|Nominal|Right|
+P223A6|Tiene Ud. Limitaciones de forma permanente, para relacionarse con los demás, por sus pensamientos, sentimientos, emociones o conductas|Numeric|5|Nominal|Right|
+P223A7|No tiene discapacidad|Numeric|5|Nominal|Right|
+P224|Por sus antepasados y de acuerdo a sus costumbres, Ud. se considera:|Numeric|6|Nominal|Right|1=Quechua/2=Aymara/3=Nativo o indígena de la Amazonía/4=Negro/Mulato/Zambo/Afro peruano/5=Blanco/6=Mestizo/7=Otro/8=NO SABE
+P225|Cuál es el idioma o lengua materna que aprendió en su niñez:|Numeric|8|Nominal|Right|1=Quechua?/2=Aymara?/3=Otra lengua nativa/4=Castellano/5=Portugués/6=Otra lengua extranjera/7=ES SORDO MUDO(A) / MUDO(A)/8=LENGUA DE SEÑAS PERUANAS.
+ocu200|Indicador de Condición de Actividad|Numeric|8|Scale|Right|1=Ocupado/2=Desocupado abierto/3=Desocupado oculto/4=No PEA
+i211a|Ingreso mensual monetario por trab. dependiente|Numeric|8|Scale|Right|
+i211b|Ingreso mensual en especies por trab. dependiente (valorizado)|Numeric|8|Scale|Right|
+i212a|Ingreso mensual monetario por trab. independiente|Numeric|8|Scale|Right|
+i212b|Ingreso mensual en especies por trab. independiente (valorizado)|Numeric|8|Scale|Right|
+i212c|Ingreso mensual monetario de la act. secundaria|Numeric|8|Scale|Right|
+i212d|Ingreso mensual en especies de la act. secundaria (valorizado)|Numeric|8|Scale|Right|
+ingtot|Ingreso Total Mensual|Numeric|8|Scale|Right|
+ingprin|Ingreso Principal Mensual|Numeric|8|Scale|Right|
+resident|Residente Habitual|Numeric|8|Scale|Right|
+fa_def21|Factor Trimestral-(Dic-Ene-Feb21)|Numeric|10|Scale|Right|
